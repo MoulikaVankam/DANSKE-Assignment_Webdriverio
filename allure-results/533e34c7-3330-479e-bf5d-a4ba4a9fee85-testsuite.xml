@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1646141166108' stop='1646141172323'>
+    <name>Remove items to cart and validating cart count is decreasing</name>
+    <title>Remove items to cart and validating cart count is decreasing</title>
+    <test-cases>
+        <test-case start='1646141166108' status='passed' stop='1646141172322'>
+            <name>Remove items to cart and validating cart count is decreasing</name>
+            <title>Remove items to cart and validating cart count is decreasing</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-98.0.4758.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
